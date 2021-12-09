@@ -1,0 +1,7 @@
+{
+   "description": "arm-none-eabi-gcc",
+   "name": "toolchain-pico",
+   "system": [ "linux_aarch64" ],
+   "url": "https://github.com/earlephilhower/pico-quick-toolchain",
+   "version": "5.100300.210706"
+}
